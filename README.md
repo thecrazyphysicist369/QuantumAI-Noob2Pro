@@ -11,4 +11,6 @@ Building the first OpenSource QuantumAI repo for guiding noobs to pro
 
 - **Problem 4 :** Quantum Teleportation - Transfer the state of one qubit to another, using entanglement and classical communication.
 
-- **Problem 5 :** 
+- **Problem 5 :** Quantum State Classification - Introduces the idea of classifying quantum states based on measurement outcomes.
+
+- **Problem 6 :** 
