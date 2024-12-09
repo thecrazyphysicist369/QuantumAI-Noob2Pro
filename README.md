@@ -14,3 +14,12 @@ Building the first OpenSource QuantumAI repo for guiding noobs to pro
 - **Problem 5 :** Quantum State Classification - Introduces the idea of classifying quantum states based on measurement outcomes.
 
 - **Problem 6 :** 
+
+
+
+
+-----
+
+**Learning Resources:**
+- Quantum Machine Learning - https://www.youtube.com/@quantumml8791/playlists
+- Quantum Machine Learning by Seth Lloyd (MIT) - https://www.youtube.com/watch?v=Lbndu5EIWvI
