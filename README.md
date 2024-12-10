@@ -1,7 +1,7 @@
 # QuantumAI-Noob2Pro
 Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
---> Feel free to contribute and help serve the community !
+🤝 Feel free to contribute and help serve the community ! 🌎
 
 ---
 ### How to proceed with this repository ?
@@ -19,6 +19,13 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 - **Problem 5 :** Quantum State Classification - Introduces the idea of classifying quantum states based on measurement outcomes.
 
 - **Problem 6 :** Quantum Feature Encoding - The task is to encode classical data (e.g., a numerical feature) into a quantum state.
+
+- **Problem 7 :** Quantum Nearest Neighbour(QNN) - Compare quantum states and classify a new data point based on its similarity to a set of labeled quantum states.
+
+- **Problem 8 :** Quantum Principal Component Analysis (QPCA) - Task is to find the principal components of a dataset encoded as quantum states.
+
+< List will be updated as added >
+
 ---
 #### Foundational Papers to Study : 📑
 1. The Road to Quantum Artificial Intelligence - https://arxiv.org/ftp/arxiv/papers/0705/0705.3360.pdf
@@ -39,3 +46,7 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
 #### BEST OVERALL RESOURCE: https://quantummlhandbook.vercel.app/docs/get-started
 
+---
+#### Connect with me on Linkedin - [@shreyanbasuray](https://www.linkedin.com/in/shreyanbasuray) 🪩 
+
+─── ⋆⋅☆⋅⋆ ───
