@@ -4,9 +4,9 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 🤝 Feel free to contribute and help serve the community ! 🌎
 
 ---
-### How to proceed with this repository ?
+### How to proceed with this repository ? 🤔
 
-- Read the `0-ReadFIRST.ipynb` to understand the required terminolgies that you will be encountering in the listed problems.
+➡️ Read the `0-ReadFIRST.ipynb` to understand the required terminolgies that you will be encountering in the listed problems. 
 
 - **Problem 1 :** Flip a single bit (0 to 1 or 1 to 0) using a quantum gate
 
