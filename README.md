@@ -44,7 +44,9 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 3. Quantum Machine Learning by Peter Wittek - https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg
 4. Quantum Machine Learning by Seth Lloyd (MIT) - https://www.youtube.com/watch?v=Lbndu5EIWvI
 
-#### BEST OVERALL RESOURCE: https://quantummlhandbook.vercel.app/docs/get-started
+#### BEST OVERALL RESOURCE: 
+1. https://quantummlhandbook.vercel.app/docs/get-started
+2. https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 ---
 #### Connect with me on Linkedin - [@shreyanbasuray](https://www.linkedin.com/in/shreyanbasuray) 🪩 
