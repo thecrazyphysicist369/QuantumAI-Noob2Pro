@@ -4,6 +4,11 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 🤝 Feel free to contribute and help serve the community ! 🌎
 
 ---
+### 👨‍💻 Pre-requisites : 
+- Intermediate Machine Learning and Deep Learning Knowledge.
+- Basic idea about Quantum Mechanics
+
+---
 ### How to proceed with this repository ? 🤔
 
 ➡️ **Read the `0-ReadFIRST.ipynb` to understand the required terminolgies that you will be encountering in the listed problems.**
@@ -32,13 +37,13 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
 - **Problem 9.2 :** Quantum Support Vector Machine (QSVM) - Application of QSVM with PennyLane.
 
+- **Problem 10 :** 
 
 < List will be updated as added >
 
 ---
 
-**Pre-requisites :** Intermediate Machine Learning and Deep Learning Knowledge.
-
+### What to read/ study for this ? 🤓
 #### Foundational Papers to Study : 📑
 1. The Road to Quantum Artificial Intelligence - https://arxiv.org/ftp/arxiv/papers/0705/0705.3360.pdf
 2. Quantum Neuron: an elementary building block for machine learning on quantum computers : https://arxiv.org/pdf/1711.11240
@@ -56,9 +61,10 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 3. Quantum Machine Learning by Peter Wittek - https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg
 4. Quantum Machine Learning by Seth Lloyd (MIT) - https://www.youtube.com/watch?v=Lbndu5EIWvI
 
-#### BEST OVERALL RESOURCE: 
+#### TOP OVERALL RESOURCES : 🥇
 1. https://quantummlhandbook.vercel.app/docs/get-started
 2. https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+3. https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html
 
 ---
 #### Connect with me on Linkedin - [@shreyanbasuray](https://www.linkedin.com/in/shreyanbasuray) 🪩 
