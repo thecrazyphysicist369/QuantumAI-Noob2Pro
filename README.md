@@ -24,9 +24,21 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
 - **Problem 8 :** Quantum Principal Component Analysis (QPCA) - Task is to find the principal components of a dataset encoded as quantum states.
 
+- **Problem 8.1 :** Quantum Principal Component Analysis (QPCA) Application on a generated dataset - Apply QPCA techniques on a small generated dataset.
+
+- **Problem 9 :** Quantum Support Vector Machine (QSVM) - Using QSVM determine the accuracy of a basic generated dataset.
+
+- **Problem 9.1 :** Quantum Support Vector Machine (QSVM) - Application of QSVM on Iris Dataset
+
+- **Problem 9.2 :** Quantum Support Vector Machine (QSVM) - Application of QSVM on PennyLane's circle dataset.
+
+
 < List will be updated as added >
 
 ---
+
+**Pre-requisites :** Intermediate Machine Learning and Deep Learning Knowledge.
+
 #### Foundational Papers to Study : 📑
 1. The Road to Quantum Artificial Intelligence - https://arxiv.org/ftp/arxiv/papers/0705/0705.3360.pdf
 2. Quantum Neuron: an elementary building block for machine learning on quantum computers : https://arxiv.org/pdf/1711.11240
