@@ -30,7 +30,7 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
 - **Problem 9.1 :** Quantum Support Vector Machine (QSVM) - Application of QSVM on Iris Dataset
 
-- **Problem 9.2 :** Quantum Support Vector Machine (QSVM) - Application of QSVM on PennyLane's circle dataset.
+- **Problem 9.2 :** Quantum Support Vector Machine (QSVM) - Application of QSVM with PennyLane.
 
 
 < List will be updated as added >
