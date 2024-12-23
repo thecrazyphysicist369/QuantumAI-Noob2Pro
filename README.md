@@ -37,7 +37,6 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 
 - **Problem 9.2 :** Quantum Support Vector Machine (QSVM) - Application of QSVM with PennyLane.
 
-- **Problem 10 :** 
 
 < List will be updated as added >
 
