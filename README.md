@@ -58,10 +58,10 @@ Building an OpenSource repo for guiding NOOBS --to-> PRO in QuantumAI 🚀
 1. [Understand the DIRAC NOTATIONS and the basic representations]https://youtu.be/MrLf6m_AFc0?si=Cjjj40mY11QCPNOd&t=101
 2. [Introduction to Quantum Computing by Qiskit]https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR
 3. [Quantum Machine Learning by Peter Wittek]https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg
-4. [Quantum Machine Learning by Seth Lloyd (MIT)]https://www.youtube.com/watch?v=Lbndu5EIWvI
+4. [Quantum Machine Learning by Seth Lloyd (MIT)](https://www.youtube.com/watch?v=Lbndu5EIWvI)
 
 #### TOP OVERALL RESOURCES : 🥇
-1. [Quantum Handbook]https://quantummlhandbook.vercel.app/docs/get-started
+1. [Quantum Handbook](https://quantummlhandbook.vercel.app/docs/get-started)
 2. [Awesome Quantum Machine Learning]https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 3. [Qiskit]https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html
 
